@@ -1,0 +1,8 @@
+{
+  "name": " Tìm kiếm Sản phẩm bằng Hình ảnh \u0026 Báo giá Tự động",
+  "description": "Hệ thống AI tự động nhận diện hình ảnh vật tư công nghiệp, tìm kiếm sản phẩm tương đương trên ZKH và gửi yêu cầu báo giá tự động qua WeChat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
